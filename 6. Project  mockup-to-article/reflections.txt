@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* I have learnt some new skills like making a sentence strong and emphasized at the same time   .
+  Displaying a image in browser using img tag.
+  Making a text to strikethrough.
+  Writing a paragraph with hyperlinks and also to use "sup" tag to make a text superscript to another.
+
+* Since this is the basics of html , everything was easy till now.
+
+* It was a bit hard to manage the links , since they were mixed up easily. But overall everything seemed easy.
+
+* I first started to make a tree like structure wherever possible. Also i tried using seperate paragraph tag for each paragraph
+  to distinguish between different paragraph. I tried to make nested code structure to understand the code easily.
+  
+   
